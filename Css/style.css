@@ -322,7 +322,9 @@ body ,html{
      margin: 0px;
      margin-top: 10px;
 }
-
+.cardo h4{
+    text-align: justify;
+}
 .row4{
     height:45vh;
     width:100vw;
@@ -504,10 +506,22 @@ body ,html{
         transform: scale(0.7);
     }
     .img-gallery img{
-        transform: scale(0.9);
+        transform: scale(0.85);
     }
     .cardo{
-        transform: scale(0.65);
+        transform: scale(0.78);
+    }
+    .footer2 li a{
+        font-size: 12px;
+    }
+    .footer .black h4{
+        font-size: 12px;
+    }
+    .my h4{
+        font-size: 12px; 
+    }
+    .col1 img{
+        transform: scale(0.8);
     }
 }
 @media only screen and (max-width:280px){
